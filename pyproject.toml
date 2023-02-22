@@ -9,6 +9,7 @@ packages = [{include = "vk_set_online"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 aiohttp = "^3.8.4"
+loguru = "^0.6.0"
 
 
 [build-system]
